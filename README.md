@@ -32,7 +32,7 @@ Country Explorer is a web application that allows users to explore information a
 ## Project Structure
 
 ```
-/home/mohamdah/uni-work/other/ahmed
+/
 ├── index.html       # Main HTML file
 ├── styles.css       # CSS file for styling
 ├── script.js        # JavaScript file for functionality
