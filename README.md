@@ -2,6 +2,7 @@
 
 Country Explorer is a web application that allows users to explore information about countries around the world. Users can select a country from a dropdown menu and view detailed information such as the country's flag, capital, population, region, subregion, languages, currencies, and bordering countries.
 
+
 ## Features
 
 - Fetches and displays a list of countries in a dropdown menu.
