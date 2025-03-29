@@ -18,7 +18,7 @@ Country Explorer is a web application that allows users to explore information a
 - **REST API**: Data fetched from [REST Countries API](https://restcountries.com/).
 
 ## Links
-- **Demo Video**: [Demo Video]()
+- **Demo Video**: [Demo Video](https://youtube.com/shorts/34O5KsOoGF8?si=GMBP1dRgXuTQXzm9)
 - **Live Site**: [Country Explorer](https://www.ahmed-101.tech/)
 - **Repository**: [GitHub Repository](https://github.com/ahmed101-uni/web-inf-summative-project/tree/main)
 
